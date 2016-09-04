@@ -1,5 +1,6 @@
 {
     "require": {
-        "imjoehaines/bff": "dev-master"
+        "imjoehaines/bff": "dev-master",
+        "guzzlehttp/psr7": "^1.3"
     }
 }

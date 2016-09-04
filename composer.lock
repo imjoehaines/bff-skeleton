@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f2d993b81e489d84c9c8a6bf5b2d3d94",
-    "content-hash": "e9e01e8b35fef38e40189024c951cb11",
+    "hash": "9df3bd7a2ba817517773bcaa6ddeb67c",
+    "content-hash": "3d5b461266bdeca3ad09a3e24731d981",
     "packages": [
         {
             "name": "guzzlehttp/psr7",
@@ -71,16 +71,15 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/imjoehaines/bff.git",
-                "reference": "99032444007344fd877165f5269f852cc4efc217"
+                "reference": "b53bdfbd96dc78534acc6133a7c86d0326899142"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imjoehaines/bff/zipball/99032444007344fd877165f5269f852cc4efc217",
-                "reference": "99032444007344fd877165f5269f852cc4efc217",
+                "url": "https://api.github.com/repos/imjoehaines/bff/zipball/b53bdfbd96dc78534acc6133a7c86d0326899142",
+                "reference": "b53bdfbd96dc78534acc6133a7c86d0326899142",
                 "shasum": ""
             },
             "require": {
-                "guzzlehttp/psr7": "^1.3",
                 "psr/http-message": "^1.0"
             },
             "type": "library",
@@ -99,7 +98,7 @@
                     "email": "hello@joehaines.co.uk"
                 }
             ],
-            "time": "2016-09-04 19:45:06"
+            "time": "2016-09-04 19:54:43"
         },
         {
             "name": "psr/http-message",
