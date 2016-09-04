@@ -1,0 +1,5 @@
+{
+    "require": {
+        "imjoehaines/bff": "dev-master"
+    }
+}
