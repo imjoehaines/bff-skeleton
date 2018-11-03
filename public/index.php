@@ -33,7 +33,7 @@ $path = $_SERVER['REQUEST_URI'];
 
 $handler = $router->match($method, $path);
 
-$body = new Parameters(json_decode(file_get_contents('php://input'), true));
+$body = new Parameters(json_decode(file_get_contents('php://input'), true) ?? []);
 
 $response = $handler->handle(new Request($method, $body));
 
